@@ -27,6 +27,26 @@ This project will use a machine learning pipeline to categorize emergency messag
   - To see the Flask app in action, the user shall type the following in the browser URL:  http://[SPACE-ID]-3001.SPACEDOMAIN (example:  http://view6914b2f4-3001.udacity-student-workspaces.com/).  Do not access the URL http://0.0.0.0:3001/ generated from the first terminal screen.
 
 
+## Instructions:
+
+(captured from README.md file in Project Workspace IDE, but added details on how to change the directory to access and run the run.py file):
+
+1. Run the following commands in the project's root directory to set up your database and model.
+
+    - To run ETL pipeline that cleans data and stores in database
+        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+    - To run ML pipeline that trains classifier and saves
+        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+
+2. Change the directory to the app's directory by typing the following
+    'cd app'
+
+3. Run the following command in the app's directory to run your web app.
+    `python run.py`
+
+4. Go to http://0.0.0.0:3001/
+
+
 ## Screenshots:
 
 Main application interface:

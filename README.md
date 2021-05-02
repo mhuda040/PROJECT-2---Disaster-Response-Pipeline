@@ -27,6 +27,24 @@ This project will use a machine learning pipeline to categorize emergency messag
   - To see the Flask app in action, the user shall type the following in the browser URL:  http://[SPACE-ID]-3001.SPACEDOMAIN (example:  http://view6914b2f4-3001.udacity-student-workspaces.com/)
 
 
+## Installation:
+
+Must have Python 3 installed to run the required files and execute the commands at the command prompts.
+
+Must include the following libraries in the Jupyter Notebook files and Python scripts:
+- numpy
+- pandas
+- sqlalchemy
+- re
+- nltk
+- sqlite3
+- pickle
+- json
+- sklearn
+- plotly
+- flask
+
+
 ## Instructions:
 
 (captured from README.md file in Project Workspace IDE, but added details on how to change the directory to access and run the run.py file):
@@ -62,6 +80,6 @@ Results:
 ![Screenshot 4 - Results 01](https://user-images.githubusercontent.com/39567971/116820039-f4e77c00-ab40-11eb-953a-d1204be62809.png)
 
 
-## About:
+## Acknowledgements:
 
-This project was prepared as part of the Udacity Data Scientist nanodegree program.  Data provided by Figure Eight.  Template codes for Jupyter Notebooks, Data, Models, and App provided by Udacity.
+This project was prepared as part of the Udacity Data Scientist nanodegree program.  Special thanks to Figure Eight for providing the data required for the project.  Additional thanks to Udacity for providing the template codes for Jupyter Notebooks, Data, Models, and App.

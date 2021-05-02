@@ -44,4 +44,4 @@ Results:
 
 ## About
 
-This project was prepared as part of the Udacity Data Scientist nanodegree program.  Data provided by Figure Eight.
+This project was prepared as part of the Udacity Data Scientist nanodegree program.  Data provided by Figure Eight.  Template codes for Jupyter Notebooks, Data, Models, and App provided by Udacity.

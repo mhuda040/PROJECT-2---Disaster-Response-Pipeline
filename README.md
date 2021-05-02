@@ -73,14 +73,14 @@ Main application interface:
 Overview of Training Dataset:
 ![Screenshot 2 - Genre Interface 01](https://user-images.githubusercontent.com/39567971/116820036-f4e77c00-ab40-11eb-9232-e340f3141fcd.png)
 
+Categories:
+![Screenshot 5 - Categories 01](https://user-images.githubusercontent.com/39567971/116830490-8f16e680-ab78-11eb-82b0-610087b80505.png)
+
 Analyzing message data for disaster response:
 ![Screenshot 3 - Message 01](https://user-images.githubusercontent.com/39567971/116820038-f4e77c00-ab40-11eb-88c3-11ab03f3432e.png)
 
 Results:
 ![Screenshot 4 - Results 01](https://user-images.githubusercontent.com/39567971/116820039-f4e77c00-ab40-11eb-953a-d1204be62809.png)
-
-Categories:
-![Screenshot 5 - Categories 01](https://user-images.githubusercontent.com/39567971/116830490-8f16e680-ab78-11eb-82b0-610087b80505.png)
 
 
 ## Acknowledgements:

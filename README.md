@@ -5,7 +5,8 @@ This project will use a machine learning pipeline to categorize emergency messag
 ## Required Files:
 - App
   - run.py:  This Python script is the Flask file that shall run the app on any web broswer (e.g. Firefox, Microsoft Edge, Google Chrome, etc.  For this project, the Flask app was run on Google Chrome).  In the IDE terminal, the user will be directed to /home/workspace; this directory must be changed to /home/workspace/app via a "cd app" command, to access and run the run.py file.
-  - templates folder:  Contains the HTML template files.  master.html is the main page of the emergency messages API, or web app.  go.html is the classification result page of web app.  These HTML files must not be modified.
+  - templates folder:  Contains the HTML template files
+    - master.html is the main page of the emergency messages API, or web app.  go.html is the classification result page of web app.  These HTML files must not be modified.
   - A second terminal browser shall be opened and the following commands executed on the terminal screen:  env|grep WORK.  The user shall see the parameters for both SPACEID and SPACEDOMAIN.  SPACEID is automatically generated; SPACEDOMAIN is:  udacity-student-workspaces.com
   - To see the Flask app in action, the user shall type the following in the browser URL:  http://[SPACE-ID]-3001.SPACEDOMAIN (example:  http://viewa4a5284b-3001.udacity-student-workspaces.com/)
 

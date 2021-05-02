@@ -23,7 +23,7 @@ This project will use a machine learning pipeline to categorize emergency messag
   - templates folder:  Contains the HTML template files
     - `master.html`:  Main page of the emergency messages API, or web app
     - `go.html`:  Classification result page of web app
-  - A second terminal browser shall be opened and the following commands executed on the terminal screen:  env|grep WORK.  No change to the app directory necessary.  The user shall see the parameters for both SPACEID and SPACEDOMAIN.  SPACEID is automatically generated; SPACEDOMAIN is:  udacity-student-workspaces.com
+  - A second terminal browser shall be opened and the following commands executed on the terminal screen:  `env|grep WORK`.  No change to the app directory necessary.  The user shall see the parameters for both SPACEID and SPACEDOMAIN.  SPACEID is automatically generated; SPACEDOMAIN is:  udacity-student-workspaces.com
   - To see the Flask app in action, the user shall type the following in the browser URL:  http://[SPACE-ID]-3001.SPACEDOMAIN (example:  http://view6914b2f4-3001.udacity-student-workspaces.com/)
 
 

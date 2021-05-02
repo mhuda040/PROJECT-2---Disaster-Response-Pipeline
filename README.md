@@ -27,10 +27,19 @@ This project will use a machine learning pipeline to categorize emergency messag
 
 ## Screenshots:
 
-![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%204%20-%20Results%2001.png![Screenshot 1 - Main Interface 01](https://user-images.githubusercontent.com/39567971/116820001-d2edf980-ab40-11eb-8f42-102c01626f64.png)
-![Screenshot 2 - Genre Interface 01](https://user-images.githubusercontent.com/39567971/116820002-d3869000-ab40-11eb-8afb-b07f3da98cf0.png)
-![Screenshot 3 - Message 01](https://user-images.githubusercontent.com/39567971/116820003-d3869000-ab40-11eb-883e-c61c5e6f6791.png)
-![Screenshot 4 - Results 01](https://user-images.githubusercontent.com/39567971/116820005-d3869000-ab40-11eb-8e02-04e922a9a2be.png)
-?raw=true "Screenshot 4")
+Main application interface:
+![Screenshot 1 - Main Interface 01](https://user-images.githubusercontent.com/39567971/116820035-f4e77c00-ab40-11eb-864b-1fb1a2a6b351.png)
+
+Overview of Training Dataset:
+![Screenshot 2 - Genre Interface 01](https://user-images.githubusercontent.com/39567971/116820036-f4e77c00-ab40-11eb-9232-e340f3141fcd.png)
+
+Analyzing message data for disaster response:
+![Screenshot 3 - Message 01](https://user-images.githubusercontent.com/39567971/116820038-f4e77c00-ab40-11eb-88c3-11ab03f3432e.png)
+
+Results:
+![Screenshot 4 - Results 01](https://user-images.githubusercontent.com/39567971/116820039-f4e77c00-ab40-11eb-953a-d1204be62809.png)
 
 
+## About
+
+This project was prepared as part of the Udacity Data Scientist nanodegree program.  Data provided by Figure Eight.

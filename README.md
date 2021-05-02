@@ -39,7 +39,7 @@ This project will use a machine learning pipeline to categorize emergency messag
         `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 
 2. Change the directory to the app's directory by typing the following.
-    'cd app'
+    `cd app`
 
 3. Run the following command in the app's directory to run your web app.
     `python run.py`

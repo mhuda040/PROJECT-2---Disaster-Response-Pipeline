@@ -16,7 +16,7 @@ This project will use a machine learning pipeline to categorize emergency messag
 
 - Models
   - `train_classifier.py`:  This Python script shall load the data from the DisasterResponse.db database and call the downstream system GridSearchCV to run and train the machine learning model.  The model shall be saved in a Pickle file
-  - `classifier.pkl`:  The saved model stored in a pickle file (not available due to file size limitations in Github; max file size allowed in Github is 40 MB.  The pickle file exceeded over 100 MB)
+  - `classifier.pkl`:  The saved model stored in a pickle file (not available due to file size limitations in Github; max file size allowed in Github is 25 MB.  The pickle file exceeded over 100 MB)
 
 - App
   - `run.py`:  This Python script is the Flask file that shall run the app on any web broswer (e.g. Firefox, Microsoft Edge, Google Chrome, etc.  For this project, the Flask app was run on Google Chrome).  In the IDE terminal, the user will be directed to /home/workspace; this directory must be changed to /home/workspace/app via a "cd app" command, to access and run the run.py file

@@ -39,10 +39,4 @@ Analyze Message Interface that takes the user input
 Analyze Message Interface that displays the results
 ![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%204%20-%20Results%2001.png?raw=true "Screenshot 4")
 
-Analyze Message Interface that takes the user input (second example)
-![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%203%20-%20Message%2001.png?raw=true "Screenshot 5")
-
-Analyze Message Interface that displays the results (second example)
-![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%204%20-%20Results%2001.png?raw=true "Screenshot 6")
-
 

@@ -3,8 +3,10 @@
 This project will use a machine learning pipeline to categorize emergency messages.  The data comes from Figure Eight, which we will use to build our model for the emergency messages API.
 
 ## Required Files:
+
 - Jupyter Notebook
-  - 
+  - ETL Pipeline Preparation.ipynb:  Required for the process_data.py python script (see file details below under Data section)
+  - ML Pipeline Preparation.ipynb:  Required for the train_classifier.py python script (see file details below under Models section)
 
 - App
   - run.py:  This Python script is the Flask file that shall run the app on any web broswer (e.g. Firefox, Microsoft Edge, Google Chrome, etc.  For this project, the Flask app was run on Google Chrome).  In the IDE terminal, the user will be directed to /home/workspace; this directory must be changed to /home/workspace/app via a "cd app" command, to access and run the run.py file.

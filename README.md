@@ -15,3 +15,4 @@ This project will use a machine learning pipeline to categorize emergency messag
   - templates folder:  Contains the HTML template files (these files must not be modified)
 
 ## Screenshots:
+![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%201%20-%20Main%20Interface%2001.png?raw=true "Screenshot 1")

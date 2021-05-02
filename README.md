@@ -12,4 +12,6 @@ This project will use a machine learning pipeline to categorize emergency messag
   - classifier.pkl:  The pickle file (not available due to file size limitations in Github; the file exceeded over 100 MB)
 - App
   - run.py:  This Python script is the main script that shall run the web app on any web broswer.  In the IDE terminal, the user will be directed to /home/workspace; this directory must be changed to /home/workspace/app via a "cd app" command, to access and run the run.py file.
-  - templates folder:  Contains the HTML template files
+  - templates folder:  Contains the HTML template files (these files must not be modified)
+
+## Screenshots:

@@ -42,6 +42,6 @@ Results:
 ![Screenshot 4 - Results 01](https://user-images.githubusercontent.com/39567971/116820039-f4e77c00-ab40-11eb-953a-d1204be62809.png)
 
 
-## About
+## About:
 
 This project was prepared as part of the Udacity Data Scientist nanodegree program.  Data provided by Figure Eight.  Template codes for Jupyter Notebooks, Data, Models, and App provided by Udacity.

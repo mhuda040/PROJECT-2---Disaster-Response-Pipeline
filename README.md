@@ -27,16 +27,10 @@ This project will use a machine learning pipeline to categorize emergency messag
 
 ## Screenshots:
 
-Main Interface
-![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%201%20-%20Main%20Interface%2001.png?raw=true "Screenshot 1")
-
-Genre Interface displaying the training dataset and the appropriate categories
-![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%202%20-%20Genre%20Interface%2001.png?raw=true "Screenshot 2")
-
-Analyze Message Interface that takes the user input
-![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%203%20-%20Message%2001.png?raw=true "Screenshot 3")
-
-Analyze Message Interface that displays the results
-![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%204%20-%20Results%2001.png?raw=true "Screenshot 4")
+![Alt text](https://github.com/mhuda040/PROJECT-2---Disaster-Response-Pipeline/blob/main/Screenshot%204%20-%20Results%2001.png![Screenshot 1 - Main Interface 01](https://user-images.githubusercontent.com/39567971/116820001-d2edf980-ab40-11eb-8f42-102c01626f64.png)
+![Screenshot 2 - Genre Interface 01](https://user-images.githubusercontent.com/39567971/116820002-d3869000-ab40-11eb-8afb-b07f3da98cf0.png)
+![Screenshot 3 - Message 01](https://user-images.githubusercontent.com/39567971/116820003-d3869000-ab40-11eb-883e-c61c5e6f6791.png)
+![Screenshot 4 - Results 01](https://user-images.githubusercontent.com/39567971/116820005-d3869000-ab40-11eb-8e02-04e922a9a2be.png)
+?raw=true "Screenshot 4")
 
 
